@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Weapons_Kit_BuiltData.uasset
+Content/Weapon_Pack/Map/Weapons_Kit_BuiltData.uasset
